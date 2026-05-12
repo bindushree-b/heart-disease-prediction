@@ -4,7 +4,8 @@ import streamlit as st
 import pickle as pk
 
 # model = pk.load(open('D:\Heart Disease Prediction\Heart_disease_model.pkl','rb'))
-model = pk.load(open("Heart_disease_model.pkl", "rb"))
+
+data = pd.read_csv("heart_disease.csv")
 
 data = pd.read_csv('D:\Heart Disease Prediction\heart_disease.csv')
 
