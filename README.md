@@ -23,4 +23,4 @@ This application is built using Streamlit.
 
 ## Application Screenshot
 
-![App Screenshot](screenshots/result.png)
+<img src="screenshots/result.png" width="700">
