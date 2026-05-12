@@ -7,7 +7,7 @@ import pickle as pk
 
 data = pd.read_csv("heart_disease.csv")
 
-data = pd.read_csv('D:\Heart Disease Prediction\heart_disease.csv')
+
 
 st.header('hear Disease Predictor')
 
